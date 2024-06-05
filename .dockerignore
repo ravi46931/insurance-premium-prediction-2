@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.pytest_cache
+artifact
+catboost_info
+experiments
+insenv
+insprem.egg-info
+logs
+Insurance Premium Prediction.pdf
+template.py
